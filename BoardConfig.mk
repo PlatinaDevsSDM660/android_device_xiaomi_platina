@@ -58,5 +58,8 @@ VENDOR_SECURITY_PATCH := 2020-08-01
 # MiuiCamera
 include vendor/miuicamera/common/BoardConfigVendor.mk
 
+# SELinux
+BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
+
 # Inherit the proprietary files
 include vendor/xiaomi/platina/BoardConfigVendor.mk
