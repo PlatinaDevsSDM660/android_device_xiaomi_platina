@@ -31,7 +31,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := platina
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := havoc_platina
-PRODUCT_MODEL := Mi 8 Lite
+PRODUCT_MODEL := MI 8 Lite
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
